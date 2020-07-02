@@ -10,3 +10,6 @@ ex:
 const starsSystemInstance = starSystem(parent);//the parent is an HTML element
 starsSystemInstance.drawStars(parent.width/2,parent.height/2, 16); //drawing at the center
 ```
+
+un visuel de l'animation:
+http://www.matc17.com/starsSystemAnimation/
